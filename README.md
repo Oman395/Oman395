@@ -1,4 +1,14 @@
 # Oman395
-Massive nerd, peanut butter adict. He/Him for those who want to know.
+Massive nerd, peanut butter adict, Lay's salt and vinegar chips > any other chips.
 
-[![Me when github stats](https://github-readme-stats.vercel.app/api?username=Oman395&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
+[Catppuccin](https://github.com/catppuccin) maintainer and/or addict (only reason the stats aren't cpt is because I can't customize them).
+
+He/Him for those who want to know.
+
+![Profile deets](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oman395&theme=github_dark)
+
+![Profile deets](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oman395&theme=github_dark&exclude=dots)
+![Profile deets](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oman395&theme=github_dark&exclude=dots)
+
+![Profile deets](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oman395&theme=github_dark)
+![Profile deets](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Oman395&theme=github_dark&utcOffset=-5)
